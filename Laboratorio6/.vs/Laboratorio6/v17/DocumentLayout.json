@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60038C8-F4AF-4D72-B7E3-D4F2952AED67}|Laboratorio64\\Laboratorio64.csproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio6\\laboratorio64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60038C8-F4AF-4D72-B7E3-D4F2952AED67}|Laboratorio64\\Laboratorio64.csproj|solutionrelative:laboratorio64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF5FE6-20A4-4D67-A1FD-B19CBF561CEF}|Laboratorio63\\Laboratorio63.csproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio6\\laboratorio63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF5FE6-20A4-4D67-A1FD-B19CBF561CEF}|Laboratorio63\\Laboratorio63.csproj|solutionrelative:laboratorio63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05AADDB-4A6D-4A71-8C18-EEB98C9AE2AD}|Laboratorio62\\Laboratorio62.csproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio6\\laboratorio62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05AADDB-4A6D-4A71-8C18-EEB98C9AE2AD}|Laboratorio62\\Laboratorio62.csproj|solutionrelative:laboratorio62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D898D7D-DE25-4068-9C05-F540A00823C3}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio6\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D898D7D-DE25-4068-9C05-F540A00823C3}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio64\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio64\\Program.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio64\\Program.cs",
+              "RelativeToolTip": "Laboratorio64\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:01:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio63\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio63\\Program.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio63\\Program.cs",
+              "RelativeToolTip": "Laboratorio63\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:55:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio62\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio62\\Program.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio62\\Program.cs",
+              "RelativeToolTip": "Laboratorio62\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:50:06.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio6\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Program.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio6\\Laboratorio6\\Program.cs",
+              "RelativeToolTip": "Laboratorio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:46:04.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
