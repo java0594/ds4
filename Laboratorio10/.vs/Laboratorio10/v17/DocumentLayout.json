@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D8B3B90-86E6-49CE-997D-B344A1C4E888}|Laboratorio10.4\\Laboratorio10.4.vbproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio10\\laboratorio10.4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D8B3B90-86E6-49CE-997D-B344A1C4E888}|Laboratorio10.4\\Laboratorio10.4.vbproj|solutionrelative:laboratorio10.4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8B3B90-86E6-49CE-997D-B344A1C4E888}|Laboratorio10.4\\Laboratorio10.4.vbproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio10\\laboratorio10.4\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D8B3B90-86E6-49CE-997D-B344A1C4E888}|Laboratorio10.4\\Laboratorio10.4.vbproj|solutionrelative:laboratorio10.4\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30E6820B-6495-4D98-9658-774BAF86431E}|Laboratorio10.3\\Laboratorio10.3.vbproj|c:\\users\\juanv\\source\\repos\\ds4\\laboratorio10\\laboratorio10.3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{30E6820B-6495-4D98-9658-774BAF86431E}|Laboratorio10.3\\Laboratorio10.3.vbproj|solutionrelative:laboratorio10.3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.vb",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.4\\Perro.vb",
+              "RelativeDocumentMoniker": "Laboratorio10.4\\Perro.vb",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.4\\Perro.vb",
+              "RelativeToolTip": "Laboratorio10.4\\Perro.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:20:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.4\\Program.vb",
+              "RelativeDocumentMoniker": "Laboratorio10.4\\Program.vb",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.4\\Program.vb",
+              "RelativeToolTip": "Laboratorio10.4\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-02T03:18:22.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.3\\Program.vb",
               "RelativeDocumentMoniker": "Laboratorio10.3\\Program.vb",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10.2\\Program.vb",
               "RelativeDocumentMoniker": "Laboratorio10.2\\Program.vb",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "Laboratorio10.2\\Program.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-02T00:08:46.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:08:46.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.vb",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\Laboratorio10\\Laboratorio10\\Program.vb",
               "RelativeDocumentMoniker": "Laboratorio10\\Program.vb",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "Laboratorio10\\Program.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-02T00:07:44.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T00:07:44.33Z"
             }
           ]
         }
