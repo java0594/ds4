@@ -1,0 +1,15 @@
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\bin\Debug\net8.0\Laboratorio9.3.exe
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\bin\Debug\net8.0\Laboratorio9.3.deps.json
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\bin\Debug\net8.0\Laboratorio9.3.runtimeconfig.json
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\bin\Debug\net8.0\Laboratorio9.3.dll
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\bin\Debug\net8.0\Laboratorio9.3.pdb
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.AssemblyInfoInputs.cache
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.AssemblyInfo.cs
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.csproj.CoreCompileInputs.cache
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.sourcelink.json
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.dll
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\refint\Laboratorio9.3.dll
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.pdb
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\Laboratorio9.3.genruntimeconfig.cache
+C:\Users\juanv\source\repos\ds4\Laboratorio9\Laboratorio9.3\obj\Debug\net8.0\ref\Laboratorio9.3.dll
