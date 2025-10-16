@@ -1,0 +1,1 @@
+Select distinct OrderID From [Order Details]
