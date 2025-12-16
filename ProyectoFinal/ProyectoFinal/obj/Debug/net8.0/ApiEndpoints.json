@@ -26,6 +26,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ProyectoFinal.Controllers.DuenoController",
+    "Method": "Put",
+    "RelativePath": "api/Dueno/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dueno",
+        "Type": "ProyectoFinal.Models.Dueno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProyectoFinal.Controllers.MascotaController",
     "Method": "Get",
     "RelativePath": "api/Mascota",
@@ -46,6 +67,75 @@
       {
         "Name": "mascota",
         "Type": "ProyectoFinal.Models.Mascota",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoFinal.Controllers.MascotaController",
+    "Method": "GetById",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoFinal.Controllers.MascotaController",
+    "Method": "Put",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mascota",
+        "Type": "ProyectoFinal.Models.Mascota",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoFinal.Controllers.MascotaController",
+    "Method": "Delete",
+    "RelativePath": "api/Mascota/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoFinal.Controllers.PerfilMedicoController",
+    "Method": "Get",
+    "RelativePath": "api/PerfilMedico/{mascotaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mascotaId",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

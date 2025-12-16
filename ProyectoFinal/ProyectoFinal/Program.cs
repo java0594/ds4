@@ -12,6 +12,19 @@ builder.Services.AddScoped<AppDbConnection>();
 builder.Services.AddScoped<DuenoDAL>();
 builder.Services.AddScoped<MascotaDAL>();
 builder.Services.AddScoped<VacunaDAL>();
+builder.Services.AddScoped<PerfilMedicoDAL>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        policy =>
+        {
+            policy
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+        });
+});
 
 var app = builder.Build();
 
@@ -23,6 +36,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("AllowFrontend");
 app.UseAuthorization();
 app.MapControllers();
 

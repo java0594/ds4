@@ -24,10 +24,11 @@ namespace ProyectoFinal.DAL
             );
         }
 
-        public async Task Insertar(Mascota mascota)
+        public async Task<int> Insertar(Mascota mascota)
         {
             using var connection = _db.CreateConnection();
-            await connection.ExecuteAsync(
+
+            return await connection.ExecuteScalarAsync<int>(
                 "sp_Mascota_Insertar",
                 new
                 {
@@ -35,11 +36,45 @@ namespace ProyectoFinal.DAL
                     mascota.Nombre,
                     mascota.Especie,
                     mascota.Raza,
-                    mascota.FechaNacimiento,
-                    mascota.Sexo
+                    mascota.Sexo,
+                    mascota.FechaNacimiento
                 },
                 commandType: CommandType.StoredProcedure
             );
         }
+
+        public async Task Actualizar(Mascota mascota)
+        {
+            using var conn = _db.CreateConnection();
+
+            await conn.ExecuteAsync(
+                "sp_Mascota_Actualizar",
+                mascota,
+                commandType: CommandType.StoredProcedure
+            );
+        }
+        public async Task<Mascota?> ObtenerPorId(int id)
+        {
+            using var conn = _db.CreateConnection();
+
+            return await conn.QueryFirstOrDefaultAsync<Mascota>(
+                "sp_Mascota_ObtenerPorId",
+                new { MascotaId = id },
+                commandType: CommandType.StoredProcedure
+            );
+        }
+
+        public async Task Eliminar(int id)
+        {
+            using var conn = _db.CreateConnection();
+            await conn.ExecuteAsync(
+                "sp_Mascota_Eliminar",
+                new { MascotaId = id },
+                commandType: CommandType.StoredProcedure
+            );
+        }
+
+
+
     }
 }

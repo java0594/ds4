@@ -28,5 +28,16 @@ namespace ProyectoFinal.Controllers
             await _duenoDal.Insertar(dueno);
             return Ok(new { mensaje = "Dueño registrado correctamente" });
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put(int id, [FromBody] Dueno dueno)
+        {
+            if (id != dueno.DuenoId)
+                return BadRequest("ID no coincide");
+
+            await _duenoDal.Actualizar(dueno);
+            return Ok(new { mensaje = "Dueño actualizado correctamente" });
+        }
+
     }
 }

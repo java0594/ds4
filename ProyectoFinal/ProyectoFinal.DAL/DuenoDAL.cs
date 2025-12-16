@@ -38,5 +38,17 @@ namespace ProyectoFinal.DAL
                 commandType: CommandType.StoredProcedure
             );
         }
+
+        public async Task Actualizar(Dueno dueno)
+        {
+            using var conn = _db.CreateConnection();
+
+            await conn.ExecuteAsync(
+                "sp_Dueno_Actualizar",
+                dueno,
+                commandType: CommandType.StoredProcedure
+            );
+        }
+
     }
 }
