@@ -1,21 +1,21 @@
-// ===============================
+
 // CONFIG
-// ===============================
+
 const tabla = document.getElementById("tablaDuenos");
 const mensaje = document.getElementById("mensaje");
 const btnGuardar = document.getElementById("btnGuardar");
 
-// ===============================
+
 // INIT
-// ===============================
+
 document.addEventListener("DOMContentLoaded", () => {
     btnGuardar.addEventListener("click", guardarDueno);
     cargarDuenos();
 });
 
-// ===============================
+
 // CARGAR DUEÑOS
-// ===============================
+
 async function cargarDuenos() {
     try {
         const duenos = await apiGet("/Dueno");
@@ -26,9 +26,8 @@ async function cargarDuenos() {
     }
 }
 
-// ===============================
 // PINTAR TABLA
-// ===============================
+
 function pintarDuenos(duenos) {
     tabla.innerHTML = "";
 
@@ -49,9 +48,9 @@ function pintarDuenos(duenos) {
     });
 }
 
-// ===============================
+
 // GUARDAR / ACTUALIZAR
-// ===============================
+
 async function guardarDueno() {
     const duenoId = document.getElementById("duenoId").value;
     const nombre = document.getElementById("nombre").value.trim();
@@ -93,9 +92,9 @@ async function guardarDueno() {
     }
 }
 
-// ===============================
+
 // EDITAR
-// ===============================
+
 function editarDueno(dueno) {
     document.getElementById("duenoId").value = dueno.duenoId;
     document.getElementById("nombre").value = dueno.nombre;
@@ -105,9 +104,9 @@ function editarDueno(dueno) {
     btnGuardar.textContent = "Actualizar";
 }
 
-// ===============================
+
 // HELPERS
-// ===============================
+
 function limpiarFormulario() {
     document.getElementById("duenoId").value = "";
     document.getElementById("nombre").value = "";

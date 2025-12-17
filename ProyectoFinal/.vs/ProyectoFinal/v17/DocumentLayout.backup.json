@@ -7,60 +7,24 @@
       "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\mascotadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\mascotaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\mascotaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal\\controllers\\perfilmedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\perfilmedicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\perfilmedicomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\perfilmedicomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.dal\\perfilmedicodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\perfilmedicodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.dal\\duenodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\duenodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal\\controllers\\duenocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\duenocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.dal\\perfilmedicodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\perfilmedicodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\perfilmedicoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\perfilmedicoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\perfilmedicovacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|solutionrelative:proyectofinal.models\\perfilmedicovacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.dal\\duenodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\duenodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal\\controllers\\vacunacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA1E052E-8CC7-4E5C-8CBC-BA2CB46097D3}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\vacunacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.dal\\proyectofinal.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{521DC361-9E52-4250-A0DB-8932CF4CA30F}|ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj|solutionrelative:proyectofinal.dal\\proyectofinal.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F495D2A0-9A6C-4E72-9FC5-8966E2AEC682}|ProyectoFinal.Models\\ProyectoFinal.Models.csproj|c:\\users\\juanv\\source\\repos\\ds4\\proyectofinal\\proyectofinal.models\\dueno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +62,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "PerfilMedicoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
+              "RelativeToolTip": "ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wBkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:33:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:41:48.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Vacuna.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\Vacuna.cs",
               "RelativeDocumentMoniker": "ProyectoFinal.Models\\Vacuna.cs",
@@ -106,34 +94,7 @@
               "RelativeToolTip": "ProyectoFinal.Models\\Vacuna.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:02:56.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MascotaView.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\MascotaView.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.Models\\MascotaView.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\MascotaView.cs",
-              "RelativeToolTip": "ProyectoFinal.Models\\MascotaView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:02:30.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Program.cs",
-              "RelativeToolTip": "ProyectoFinal\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T04:41:48.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T05:02:56.518Z"
             },
             {
               "$type": "Document",
@@ -143,27 +104,14 @@
               "RelativeDocumentMoniker": "ProyectoFinal.DAL\\MascotaDAL.cs",
               "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\MascotaDAL.cs",
               "RelativeToolTip": "ProyectoFinal.DAL\\MascotaDAL.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T04:56:43.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DuenoController.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\DuenoController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\DuenoController.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\DuenoController.cs",
-              "RelativeToolTip": "ProyectoFinal\\Controllers\\DuenoController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:23:48.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "DuenoDAL.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\DuenoDAL.cs",
               "RelativeDocumentMoniker": "ProyectoFinal.DAL\\DuenoDAL.cs",
@@ -171,76 +119,11 @@
               "RelativeToolTip": "ProyectoFinal.DAL\\DuenoDAL.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T04:56:08.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T04:56:08.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PerfilMedicoMascota.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoMascota.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.Models\\PerfilMedicoMascota.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoMascota.cs",
-              "RelativeToolTip": "ProyectoFinal.Models\\PerfilMedicoMascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:22:22.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PerfilMedicoController.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\PerfilMedicoController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\PerfilMedicoController.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\PerfilMedicoController.cs",
-              "RelativeToolTip": "ProyectoFinal\\Controllers\\PerfilMedicoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:35:43.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\Mascota.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.Models\\Mascota.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\Mascota.cs",
-              "RelativeToolTip": "ProyectoFinal.Models\\Mascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:01:53.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MascotaController.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\MascotaController.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\MascotaController.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\MascotaController.cs",
-              "RelativeToolTip": "ProyectoFinal\\Controllers\\MascotaController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:47:00.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProyectoFinal.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj",
-              "RelativeDocumentMoniker": "ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj",
-              "RelativeToolTip": "ProyectoFinal.DAL\\ProyectoFinal.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-15T04:54:06.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "VacunaController.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\Controllers\\VacunaController.cs",
               "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\VacunaController.cs",
@@ -248,51 +131,11 @@
               "RelativeToolTip": "ProyectoFinal\\Controllers\\VacunaController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwB4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:52:10.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T05:52:10.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PerfilMedicoView.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoView.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.Models\\PerfilMedicoView.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoView.cs",
-              "RelativeToolTip": "ProyectoFinal.Models\\PerfilMedicoView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:03:58.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PerfilMedicoVacuna.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoVacuna.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.Models\\PerfilMedicoVacuna.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\PerfilMedicoVacuna.cs",
-              "RelativeToolTip": "ProyectoFinal.Models\\PerfilMedicoVacuna.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:27:42.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PerfilMedicoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
-              "ToolTip": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
-              "RelativeToolTip": "ProyectoFinal.DAL\\PerfilMedicoDAL.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T15:33:42.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Dueno.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.Models\\Dueno.cs",
               "RelativeDocumentMoniker": "ProyectoFinal.Models\\Dueno.cs",
@@ -304,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "VacunaDAL.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\VacunaDAL.cs",
               "RelativeDocumentMoniker": "ProyectoFinal.DAL\\VacunaDAL.cs",
@@ -316,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "AppDbConnection.cs",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal.DAL\\AppDbConnection.cs",
               "RelativeDocumentMoniker": "ProyectoFinal.DAL\\AppDbConnection.cs",
@@ -328,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\juanv\\source\\repos\\ds4\\ProyectoFinal\\ProyectoFinal\\appsettings.json",
               "RelativeDocumentMoniker": "ProyectoFinal\\appsettings.json",

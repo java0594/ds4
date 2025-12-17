@@ -10,9 +10,9 @@ async function guardarVacuna() {
         observaciones: document.getElementById("observaciones").value.trim()
     };
 
-    // ===============================
+    
     // VALIDACIONES
-    // ===============================
+
     if (!vacuna.mascotaId || !vacuna.nombreVacuna || !vacuna.fechaAplicada) {
         mostrarMensaje("Complete los campos obligatorios", "warning");
         return;
@@ -39,9 +39,9 @@ async function guardarVacuna() {
     }
 }
 
-// ===============================
+
 // HELPERS
-// ===============================
+
 function mostrarMensaje(texto, tipo) {
     document.getElementById("mensaje").innerHTML =
         `<div class="alert alert-${tipo} mt-3">${texto}</div>`;

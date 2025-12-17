@@ -2,12 +2,12 @@
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 🔹 Add services to the container
+// Add services to the container
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// 🔹 Dependency Injection
+// Dependency Injection
 builder.Services.AddScoped<AppDbConnection>();
 builder.Services.AddScoped<DuenoDAL>();
 builder.Services.AddScoped<MascotaDAL>();
@@ -28,7 +28,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// 🔹 Middleware
+//  Middleware
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

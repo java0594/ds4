@@ -1,20 +1,20 @@
-// ===============================
+
 // CONFIG
-// ===============================
+
 const API_URL = "https://localhost:7098/api";
 let mascotaEditandoId = null;
 
-// ===============================
+
 // INIT
-// ===============================
+
 document.addEventListener("DOMContentLoaded", () => {
     cargarDuenos();
     cargarMascotas();
 });
 
-// ===============================
+
 // CARGAR DUEÑOS
-// ===============================
+
 async function cargarDuenos() {
     const res = await fetch(`${API_URL}/Dueno`);
     const duenos = await res.json();
@@ -26,10 +26,7 @@ async function cargarDuenos() {
         select.innerHTML += `<option value="${d.duenoId}">${d.nombre}</option>`;
     });
 }
-
-// ===============================
-// LISTAR MASCOTAS (VIEW)
-// ===============================
+// LISTAR MASCOTAS 
 async function cargarMascotas() {
     const res = await fetch(`${API_URL}/Mascota`);
     const mascotas = await res.json();
@@ -69,9 +66,9 @@ async function cargarMascotas() {
 
 
 
-// ===============================
+
 // CARGAR PARA EDICIÓN
-// ===============================
+
 async function cargarMascotaParaEditar(id) {
     const res = await fetch(`${API_URL}/Mascota/${id}`);
     const m = await res.json();
@@ -89,9 +86,9 @@ async function cargarMascotaParaEditar(id) {
     document.getElementById("btnGuardar").textContent = "Actualizar";
 }
 
-// ===============================
+
 // GUARDAR / ACTUALIZAR
-// ===============================
+
 async function guardarMascota() {
 
     const mascota = {
@@ -148,9 +145,9 @@ async function eliminarMascota(id) {
     }
 }
 
-// ===============================
+
 // HELPERS
-// ===============================
+
 function mostrarMensaje(texto, tipo) {
     document.getElementById("mensaje").innerHTML =
         `<div class="alert alert-${tipo} mt-3">${texto}</div>`;
